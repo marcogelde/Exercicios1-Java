@@ -2,7 +2,7 @@ package exercicios1Java;
 
 import java.util.Scanner;
 
-public class Ex9 {
+public class Ex09 {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         System.out.println("Digite o primeiro valor: ");
