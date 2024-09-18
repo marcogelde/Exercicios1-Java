@@ -4,7 +4,7 @@ package exercicios1Java;
 /*
     Comentário de múltiplas linhas
 */
-public class Ex1 {
+public class Ex01 {
     public static void main(String[] args){
         System.out.println("Olá Mundo"); // Imprime, Olá Mundo!
     }
