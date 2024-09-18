@@ -1,6 +1,6 @@
 package exercicios1Java;
 
-public class Ex2 {
+public class Ex02 {
     public static void main(String[] args){
         String nome = "Marco";
         int idade = 29;
